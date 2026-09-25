@@ -1,0 +1,3 @@
+[submodule "themes/zola-yolk"]
+	path = themes/zola-yolk
+	url = https://github.com/gauthamchettiar/zola-yolk.git

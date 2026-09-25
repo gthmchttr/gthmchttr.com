@@ -1,0 +1,26 @@
+# The URL the site will be built for
+base_url = "https://gthmchttr.com"
+theme = "zola-yolk"
+title = "gthmchttr"
+
+compile_sass = true
+build_search_index = true
+taxonomies = [{ name = "tags" }]
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+enable_search = true
+enable_theme_switcher = true
+content_sections = ["posts"]
+
+[[extra.main_menu]]
+name = "Posts"
+url = "/posts"
+
+[[extra.main_menu]]
+name = "Tags"
+url = "/tags"
