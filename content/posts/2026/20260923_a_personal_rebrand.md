@@ -1,9 +1,7 @@
 ---
 title: "A Personal Rebrand"
 date: 2026-09-23
-extra:
-  list: "never"
-  draft: "true"
+draft: true
 ---
 
 I am not sure what I am trying to achive by rebranding myself, but it psychologically gives me a fresh slate. Maybe that's how big corporates feel after rebranding their products. 

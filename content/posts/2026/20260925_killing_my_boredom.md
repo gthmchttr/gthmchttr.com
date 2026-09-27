@@ -3,8 +3,7 @@ title: "Killing My Boredom!"
 date: 2026-09-25 
 taxonomies:
   tags: ["retro", "gaming"]
-extra:
-  list: "never"
+draft: true
 ---
 
 After pondering over questions like:
