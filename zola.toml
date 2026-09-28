@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://gthmchttr.github.io/gthmchttr.com/"
+base_url = "https://gthmchttr.com"
 theme = "zola-yolk"
 title = "gthmchttr"
 
