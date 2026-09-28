@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://gthmchttr.com"
+base_url = "https://gthmchttr.github.io/gthmchttr.com/"
 theme = "zola-yolk"
 title = "gthmchttr"
 
@@ -24,3 +24,4 @@ url = "/posts"
 [[extra.main_menu]]
 name = "Tags"
 url = "/tags"
+
