@@ -14,7 +14,6 @@ theme = "catppuccin-mocha"
 
 [extra]
 enable_search = true
-enable_theme_switcher = true
 content_sections = ["posts"]
 
 [[extra.main_menu]]
