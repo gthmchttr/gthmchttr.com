@@ -12,7 +12,7 @@ After pondering over questions like:
 
 ... for over 3 months I finally caved in and bought an R36S. 
 
-![My R36S Device](/202609/r36s_device.JPG)
+{{ img(src="/202610/r36s_device.JPG", alt="My R36S Device") }}
 
 For those wondering what it is, it's a piece of hardware built to play old retro games, or in technical lingo - an emulator. 
 
@@ -32,7 +32,7 @@ I'll link the device I bought and all the accessories I ended up buying after be
 | Hard Shell Transparent Case | [Aliexpress](https://a.aliexpress.com/_Eu6Tm8W) | £2 |
 | Grip | [Aliexpress](https://a.aliexpress.com/_Exxnxam) | £3 |
 
-![R36S Accessories](/202609/r36s_accessories.JPG)
+{{ img(src="/202610/r36s_accessories.JPG", alt="R36S Accessories") }}
 
 R36S is so popular, market is flooded with clones. If you blindly buy one from an untrusted seller there's a really high chance you'll end up with a cheap fake. This is such an irony because even an original R36S itself is a budget clone of other retro handhelds!
 
