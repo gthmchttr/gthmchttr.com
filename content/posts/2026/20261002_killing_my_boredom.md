@@ -12,7 +12,7 @@ After pondering over questions like:
 
 ... for over 3 months I finally caved in and bought an R36S. 
 
-{{ img(src="/202610/r36s_device.JPG", alt="My R36S Device") }}
+{{ <img src="/202610/r36s_device.JPG" alt="My R36S Device" /> }}
 
 For those wondering what it is, it's a piece of hardware built to play old retro games, or in technical lingo - an emulator. 
 
@@ -32,11 +32,11 @@ I'll link the device I bought and all the accessories I ended up buying after be
 | Hard Shell Transparent Case | [Aliexpress](https://a.aliexpress.com/_Eu6Tm8W) | £2 |
 | Grip | [Aliexpress](https://a.aliexpress.com/_Exxnxam) | £3 |
 
-{{ img(src="/202610/r36s_accessories.JPG", alt="R36S Accessories") }}
+{{ <img src="/202610/r36s_accessories.JPG" alt="R36S Accessories" /> }}
 
 R36S is so popular, market is flooded with clones. If you blindly buy one from an untrusted seller there's a really high chance you'll end up with a cheap fake. This is such an irony because even an original R36S itself is a budget clone of other retro handhelds!
 
-To avoid buying a clone of a clone, check [this community website](https://handhelds.wiki/R36S_Buying_Guide#%E2%9C%85_Trusted_Sellers:) for a list of verified sellers. BOYHOM is one of them, and I verified my device's authenticity upon arrival - it's genuine.
+To avoid buying a clone of a clone, check {{ <elink text="this community website" href="https://handhelds.wiki/R36S_Buying_Guide#%E2%9C%85_Trusted_Sellers:" /> }} for a list of verified sellers. BOYHOM is one of them, and I verified my device's authenticity upon arrival - it's genuine.
 
 Another thing everyone across forums agree upon: **pre-installed micro-sd card is a ticking time bomb**! It'll not actually explode, but it's ultra cheap and will corrupt and fail on you eventually. That should explain my 128GB Sandisk purchase. 
 
@@ -62,5 +62,7 @@ A few more things to take note of,
 - Be prepared to tinker with it! Buying a new sd card means flashing a custom operating system (like DArkOS) from scratch. Which can be quite intimidating if you are not too comfortable with technical setups. 
 - I bought a 64G version of console as I know the memory card is anyway going to be crap and I'm gonna replace it. Only point of buying a larger sd would be lot more games, but you can always download them afterwards. 
 - I bought white colour, so I had to open up back panel to check for motherboard version (which is crucial for flashing a rom). Buying a translucent version will allow you to check motherboard version without taking it apart.
+- R36S has 2 sd card slots, TF1 (to boot your OS from) and TF2 (to save and load your games from). Community suggests using 2 cards as you are now free to tinker with your OS while your game collection would be safe in a different SD card. While this makes sense, TF2 slot that accepts games are extremely picky it seems and accepts only a small number of SD Cards. From my research all those cards are expensive. So for now, I am happy to use single SanDisk SD card for for both OS and Games. 
+
 
 I'm planning a follow-up post with my experience trying to install a custom firmware - DarkOS. Do check back if it's something you'd be interested in! 
